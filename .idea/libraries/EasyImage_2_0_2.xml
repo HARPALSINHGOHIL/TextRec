@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="EasyImage-2.0.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/fbf55799986629fde6f89837e675d44555cf2153/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/fbf55799986629fde6f89837e675d44555cf2153/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jkwiecien/EasyImage/2.0.2/915ce9c2109c9fc1dee5864d95ce32f602944be4/EasyImage-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

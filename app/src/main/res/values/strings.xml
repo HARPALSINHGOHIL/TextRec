@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Rec</string>
+    <string name="capture_Button">To Capture image</string>
+</resources>

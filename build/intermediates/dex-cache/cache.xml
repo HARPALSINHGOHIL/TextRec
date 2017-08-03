@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\bdfebef43aae183e5ac5210990f1ce412b04d086\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ae33e978b14001dd45c6f744064df5cf10ac149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\5d9bb0710d9533361a583cabee9f45ed29541bfd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eb1870ac860296253b72e4973464effb7177201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Projects\TextRec\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e633770adc41201c92e65549d974046b505c4de">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5240a2b10f707b1c9b09931f69d7f52c5e1c6086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\3b43fd294f54f68c0c25564d78b7f1f7c9a5e309\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e572e05b8ef1507841d97dba3df98b04397d5c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\fdb7e461a8fbfa5195256093492bde3676e65295\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2f86e9aed3a2f8630474a2acc6c2d5377cd66bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\6b5290231e8e0fc7fae746b1e753423a24b00d06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6dd7bac23f0286dd5ca367b6349de6198d56dfbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\7e8e7eb49ec88aebe13c5c212a0da4c1d24d7cd8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d018c2a594e81e4ad11305eb593e7f989ea3f9ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\bb46621af9a53eeb6f49f22b1e5ab1cfdfbdfbe1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9b06d9c68e98da3e4099792e543908a1a22d8b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\40fd49bc633bb1d7ebb51a0b4e766b1dfdf61863\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b08ad150bdbb6aa3c1439a994e0cc699f63749a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Projects\TextRec\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2f454fbd0fd05db6f5bb56bc1050ef8f98000759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\b482e294cd7395466b62ae206b734681722b2ee5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52a071f83967ee60e0aff4b35e19be73f7dfeac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Android\Projects\TextRec\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_3f78f2a5fa08f88b065dec41cd0427eccf2267b3\classes.dex" />
+    </item>
+
+</items>
